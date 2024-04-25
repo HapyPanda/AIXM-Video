@@ -1,0 +1,14 @@
+[
+    {
+        "path": "/mnt/lpai-dione/ssai/cvg/team/didonglin/lhz/AIXM-Video/aixmvideo/dataset/t2v_video/fish.mp4",
+        "cap": [
+          "a plane is flying in the sky."
+        ]
+      },
+      {
+        "path": "/mnt/lpai-dione/ssai/cvg/team/didonglin/lhz/AIXM-Video/aixmvideo/dataset/t2v_video/plane.mp4",
+        "cap": [
+          "a fish is in the sea"
+        ]
+      }
+]
